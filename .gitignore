@@ -33,3 +33,6 @@ hs_err_pid*
 .idea/libraries/Maven__io_netty_netty_all_4_1_28_Final.xml
 .idea/libraries/Maven__commons_logging_commons_logging_1_2.xml
 .idea/compiler.xml
+.idea/vcs.xml
+.idea/netty.iml
+.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml
